@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250719223024 +0800">
+<tv date="20250719231023 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -17301,6 +17301,9 @@
 	<programme channel="黑莓动画" start="20250720032100 +0800" stop="20250720045000 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250720045000 +0800" stop="20250720061800 +0800">
+		<title lang="zh">棉球方块历险记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -17309,6 +17312,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250720024100 +0800" stop="20250720044000 +0800">
 		<title lang="zh">寻觅之境</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250720044000 +0800" stop="20250720062000 +0800">
+		<title lang="zh">少年歌德之烦恼</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
